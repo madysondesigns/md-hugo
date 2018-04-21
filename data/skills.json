@@ -1,0 +1,13 @@
+[
+  {
+      "grouping":"Product Design",
+      "skills":[ "Product Strategy","Design Thinking","Design Systems","User Research","User Journey Maps","Personas","Information Architecture","Prototyping","Split Testing/Analytics"]
+  },{
+      "grouping":"Visual Design",
+      "skills":[ "Creative Direction","UI/Visual Design","Interaction Design","Identity & Brand Design","Print Design"]
+  },
+  {
+      "grouping":"Software",
+      "skills":[ "HTML/CSS/Javascript","Ruby/Rails","PHP/WordPress","Sketch/Figma","Adobe Creative Suite","InVision/UXPin/Framer","Asana/Trello/Jira"]
+  }
+]
