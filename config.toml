@@ -16,13 +16,11 @@ theme = "md-portfolio"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
-    showProjects = false
-    showOpenSource = false
-    showPublications = false
-    showExperience = true
+    showCaseStudies = true
+    showThoughts = false
     showEducation = true
 
-    # showQr = true
+    showQr = true
 
 [[params.handles]]
     name = "Email"
