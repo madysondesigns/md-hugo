@@ -1,4 +1,18 @@
+---
+title: "About Me"
+---
+
+{{< figure class="portfolio-figure" src="/img/betterment-team.jpg" title="Betterment's design team at work. That's me on the left." alt="The Betterment design team at work" >}}
+
+### I’m looking for an opportunity where I can help figure out what design and user experience means to an organization, its products, and its team.
+
+I'm a designer, a problem solver, a collaborator, and a leader. Let's work together.
+
 ## What I Do
+
+I'm most recently at Betterment, where I’ve helped to design and build a better financial experience from the ground up. I’ve helped the team grow from 12 to over 200, and contributed to growing customers from 10,000 to over 250,000.
+
+{{< figure class="portfolio-figure" src="/img/og-bmt-team.jpg" title="An early Betterment team photo. We've come a long way!" alt="An early team photo" >}}
 
 ### Design Director
 
@@ -20,7 +34,10 @@ I built features end-to-end across all Betterment applications, from front- end 
 
 I designed compelling visuals to tell brand stories across marketing, advertising, and product channels. I have worked on print, web, branding, and e-commerce projects for business, education, and non-profit clients.
 
+{{< figure class="portfolio-figure" src="/img/sarah-old-office.jpg" title="A typical day of work. Definitely not trying to ignore the photographer." alt="Me, working away" >}}
+
 ## What Drives Me
+
 ### Solving Problems
 
 I'm curious, ambitious, and passionate. I'm all about diving in head first to a tough challenge, and learning everything I can to help me come up with a solution.
@@ -40,3 +57,5 @@ Diverse groups are more innovative and create a culture that is more productive 
 ### Delight
 
 People who are happy and having fun do better work. Users who enjoy their experience are loyal and have trust in the product. I love finding and creating those moments of joy.
+
+{{< figure class="portfolio-figure" src="/img/better-pride.jpg" title="The Betterment team celebrates Pride (featuring shirts I designed!)" alt="Betterment Pride" >}}

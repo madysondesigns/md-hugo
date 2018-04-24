@@ -5,7 +5,6 @@ pubtype: "Article"
 featured: true
 description: "Placeholder"
 tags: ["test"]
-image: "/img/organicdevops.png"
 fact: "Placeholder"
 weight: 400
 sitemap:
