@@ -1,10 +1,10 @@
 [
   {
       "grouping":"Product Design",
-      "skills":[ "Product Strategy","Design Thinking","Design Systems","User Research","User Journey Maps","Personas","Information Architecture","Prototyping","Split Testing/Analytics"]
+      "skills":[ "Product Strategy","Design Thinking","Information Architecture","Design Systems","Personas","User Research","User Journey Maps","Split Testing/Analytics","Usability Standards","Prototyping","Repsonsive Design"]
   },{
       "grouping":"Visual Design",
-      "skills":[ "Creative Direction","UI/Visual Design","Interaction Design","Identity & Brand Design","Print Design"]
+      "skills":[ "Creative Direction","UI/Visual Design","Mobile Design","Interaction Design","Identity & Brand Design","Print Design"]
   },
   {
       "grouping":"Software",

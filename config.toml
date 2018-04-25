@@ -20,7 +20,7 @@ theme = "md-portfolio"
     showThoughts = false
     showEducation = true
 
-    showQr = true
+    showQr = false
 
 [[params.handles]]
     name = "Email"
