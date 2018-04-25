@@ -36,7 +36,7 @@ My research also included looking at other providers — our competitors. What I
 3. As a user, I want to know the value that Betterment provides to my company and employees
 4. As a user, I want to learn the industry-standard terminology to allow me to understand how Betterment compares to competitors
 
-## Ideation
+## Exploration
 Given these goals, what should a solution look like? I partnered with the head of the 401(k) business line, marketing, sales, and business relations folks and held ideation sessions.
 
 {{< figure class="portfolio-figure" src="/img/pricing-post-its.jpg" title="Ideas generated during our first brainstorming session." alt="Post-it notes with pricing ideas" >}}
@@ -47,7 +47,7 @@ Given these goals, what should a solution look like? I partnered with the head o
 
 There were a few benefits to this structure. First of all, I could break up the information into smaller, more easily digestible chunks. Second, this gave me space to include all the information about why we charge the fee, and what exactly is included. Third, it allowed me to add in interactivity that would make the tool fun to use. And lastly, it allowed us to tell a step-by-step story about what goes into 401(k) pricing and to influence how our customers think about it.
 
-## Testing
+## Validation
 We made a lot of guesses with this solution that I needed to confirm with actual users. So I set up some follow-up testing sessions with a similar group of decision makers as our original research.
 
 I came up with another set of questions I wanted to answer after watching testers use a prototype version of the calculator:

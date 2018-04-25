@@ -38,7 +38,7 @@ We also incorporated some previous testing into our data. Past split test result
 
 **All of this research supported our hypothesis: that we were not doing enough to highlight our financial experts on our home page.**
 
-## Ideation & Iteration
+## Exploration & Validation
 Since this was our main site home page, it was important to get many people involved in the ideation process. I set up sessions with various team members to brainstorm possible directions to take. For each session, I briefed the group on the user and research before we jumped into sketching sessions. After sketching, we voted on which kind of ideas we liked.
 
 {{< figure class="portfolio-figure" src="/img/brainstorming-sketches.jpg" title="A few of the ideas that came out of the sketching sessions" alt="A variety of ideas contributed by the team" >}}

@@ -27,7 +27,7 @@ The research in this case was a few months of struggling to complete work in an 
 
 An interesting thing I realized during the research is that one of the pain points is that we have many sizes of projects. Large website builds need more planning and strategy work than a simple piece of print media. So whatever process we decided on going forward, it would need to accommodate both kinds of projects.
 
-## Ideation
+## Exploration
 **I chose to think about this problem agency-style, and started planning out a set of process, roles, and responsibilities.**
 
 I decided that a sensible first step of the process would be a kickoff. It made sense for the product owner to be responsible for scheduling the kickoff, as well as coming prepared with a well defined problem to solve, an idea of scope and resources required, and any timing factors.
@@ -42,7 +42,7 @@ All projects needed implementation though, and so the next set of steps were cop
 
 It was important to include a review and testing step in the process for a few reasons. First, it’s often overlooked or cut, and we had run into problems in the past by cutting corners here. Second, it was an opportunity for stakeholders to regroup and make sure that the end result met the requirements. **It was important to position the review as ‘Does this solution solve the problem?’ rather than ‘Do you like this solution?” The key to success here was time we spent in the kickoff to pin down the problem.** And finally, it forced us to plan for the mandatory compliance review that we always seemed to forget to plan for.
 
-## Testing
+## Validation
 Once I had a rough draft of this process written up, I wanted to use it on a real project to work out the kinks. Fortunately, we had our 401(k) pricing calculator (definitely a ‘large size’ project) coming down the line to test it out.
 
 So I worked with the marketing director and the head of the 401(k) business to test out these steps. The first run required me to do a lot of the work teaching the team how to form a well-defined problem, helping them to write the creative brief, and tracking down stakeholders and managing deadlines.

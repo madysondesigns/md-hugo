@@ -39,7 +39,7 @@ Once I had a plan for where this would fit in, I spoke with the business develop
 * As a Betterment customer, I want to be able to review the agreements and accept to proceed with the partnership.
 * As a Betterment customer, I want to feel like I am receiving personalized, human service from my advisor through this process and when I request it going forward.
 
-## Ideation
+## Exploration
 I came back to the larger team with the list of goals, and once everyone was on board, I started mapping out the steps on both the advisor and customer side within the existing systems. As it turns out, there is a lot of back and forth happening (yikes!).
 
 {{< figure class="portfolio-figure" src="/img/match-flow-map.png" title="Process flow map for both customer and advisor. The highlighted steps are the new flows I was inserting." alt="Process flow map" >}}
@@ -62,7 +62,7 @@ For customers, I didn’t have to worry about a central location since it was a 
 
 {{< figure class="portfolio-figure" src="/img/Advisor-email.png" title="The customer first receives an email which was designed to look like a personal note from the advisor that was matched to them." alt="The first email a customer receives from their new advisor" >}}
 
-## Testing
+## Validation
 Testing for this flow was pretty simple — each type of user had a pretty linear path, so I did internal testing with some of our in-house advisors and other team members who were not involved in the project.
 
 I used InVision to set up a few prototypes to run by the team along with some basic test goals. For the advisor flow, the goal of the test was to successfully find matched clients and initiate a partnership by sending agreements. For the client flow, the goal was to accept the agreements.
