@@ -3,7 +3,7 @@ title: "Advisor Matching Service"
 date: 2017-10-03
 featured: true
 image: "/img/feature-match.jpg"
-description: "Figuring out how to connect humans using software."
+description: "I created a system for investment advisor partners to connect with Betterment customers to provide advisory services."
 tags: ["Prototyping","Research"]
 weight: 400
 sitemap:

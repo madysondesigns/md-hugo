@@ -3,7 +3,7 @@ title: "Home Page Testing"
 date: 2017-10-03
 featured: true
 image: "/img/feature-homepage.jpg"
-description: "Split testing Betterment's home page for new features."
+description: "I worked on marketing designs on Betterment's home page help increase interest in our new financial expert services."
 tags: ["Prototyping","Research","Split Testing"]
 weight: 400
 sitemap:

@@ -3,7 +3,7 @@ title: "401(k) Pricing Calculator"
 date: 2017-10-03
 featured: true
 image: "/img/feature-pricing.jpg"
-description: "How much should a 401(k) cost?"
+description: "I built a tool to provide information about pricing for Betterment's 401(k) product in a clear and transparent way."
 tags: ["Prototyping","Research"]
 weight: 400
 sitemap:

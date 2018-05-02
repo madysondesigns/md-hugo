@@ -3,7 +3,7 @@ title: "Process Building for B2B Teams"
 date: 2017-09-30
 featured: true
 image: "/img/feature-process.jpg"
-description: "Helping B2B teams collaborate smoothly."
+description: "I created a product-inspired process to help B2B teams at Betterment collaborate smoothly."
 tags: ["Product Management","Process"]
 weight: 400
 sitemap:
