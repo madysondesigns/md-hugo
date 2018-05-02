@@ -28,16 +28,16 @@ theme = "md-portfolio"
     link = "mailto:sarah@madysondesigns.com"
 
 [[params.handles]]
-    name = "Twitter"
-    link = "https://twitter.com/madysondesigns"
-
-[[params.handles]]
     name = "LinkedIn"
     link = "http://www.linkedin.com/in/madysondesigns"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/madysondesigns/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/madysondesigns"
 
 [params.google.analytics]
     trackerID = "UA-7398437-1"
