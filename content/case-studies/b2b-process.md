@@ -1,14 +1,15 @@
 ---
-title: "Process Building for B2B Teams"
+title: "Product Leadership for B2B Teams"
 date: 2017-09-30
 featured: true
 image: "/img/feature-process.jpg"
-description: "I created a product-inspired process to help B2B teams at Betterment collaborate smoothly."
-tags: ["Product Management","Process"]
+description: "I created a product-inspired process to help B2B teams at Betterment collaborate smoothly. My job was to encourage communication and good product strategy in a marketing-heavy role."
+tags: ["Product Management", "Process"]
 weight: 400
 sitemap:
   priority : 0.8
 ---
+
 
 ## The Problem
 ### I was the lead (and only!) designer for both of Betterment’s B2B marketing teams simultaneously. I had two stakeholders competing for my bandwidth, and no defined owner to make prioritization decisions.
@@ -28,7 +29,7 @@ The research in this case was a few months of struggling to complete work in an 
 An interesting thing I realized during the research is that one of the pain points is that we have many sizes of projects. Large website builds need more planning and strategy work than a simple piece of print media. So whatever process we decided on going forward, it would need to accommodate both kinds of projects.
 
 ## Exploration
-**I chose to think about this problem agency-style, and started planning out a set of process, roles, and responsibilities.**
+**I chose to think about this problem from the perspective of a product agency, and started planning out a set of process, roles, and responsibilities.** Any solution I created needed to give clear accountability and communication expectations to both teams.
 
 I decided that a sensible first step of the process would be a kickoff. It made sense for the product owner to be responsible for scheduling the kickoff, as well as coming prepared with a well defined problem to solve, an idea of scope and resources required, and any timing factors.
 

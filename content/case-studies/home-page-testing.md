@@ -3,8 +3,8 @@ title: "Home Page Testing"
 date: 2017-10-03
 featured: true
 image: "/img/feature-homepage.jpg"
-description: "I worked on marketing designs on Betterment's home page help increase interest in our new financial expert services."
-tags: ["Prototyping","Research","Split Testing"]
+description: "I designed a series of tests on Betterment's home page to increase interest in our new financial expert services and to entice visitors to sign up for these services."
+tags: ["Product Strategy", "Prototyping", "Split Testing", "Visual Design", "Landing Pages"]
 weight: 400
 sitemap:
   priority : 0.8
@@ -79,6 +79,7 @@ These ideas were all really fun to explore, but there was bad news — we never 
 While we were iterating on the design, we were running tests on usertesting.com. The goal of the tests was to make sure the testers understood that we offered advice from human financial experts. We constantly tweaked the copy and design to make sure testers were getting the right message.
 
 But the main test for these designs was to see if they improved conversion rate for our financial expert services — our original problem to solve. We used our split testing platform to measure two conversion metrics:
+
 - Customers who scheduled a call with one of our experts
 - Overall signup rate (to make sure we didn’t negatively impact it)
 

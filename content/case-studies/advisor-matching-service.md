@@ -3,8 +3,8 @@ title: "Advisor Matching Service"
 date: 2017-10-03
 featured: true
 image: "/img/feature-match.jpg"
-description: "I created a system for investment advisor partners to connect with Betterment customers to provide advisory services."
-tags: ["Prototyping","Research"]
+description: "I created a system of workflows to match up Betterment's individual customers with investment advisor partners. This project spanned the end-to-end experience including customer- and advisor-facing tools and all commmunication touchpoints."
+tags: ["Prototyping", "Research", "User Journeys", "Communications"]
 weight: 400
 sitemap:
   priority : 0.8
