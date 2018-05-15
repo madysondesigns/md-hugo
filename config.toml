@@ -18,6 +18,7 @@ theme = "md-portfolio"
     showSkills = true
     showCaseStudies = true
     showThoughts = false
+    showExperience = true
     showEducation = true
 
     showQr = false
