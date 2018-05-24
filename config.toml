@@ -17,7 +17,7 @@ theme = "md-portfolio"
     # what sections
     showSkills = true
     showCaseStudies = true
-    showThoughts = false
+    showWriting = false
     showExperience = true
     showEducation = true
 
