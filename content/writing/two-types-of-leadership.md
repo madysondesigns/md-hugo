@@ -3,6 +3,7 @@ title: "Two types of leadership"
 date: 2018-05-20
 pubtype: "Article"
 featured: true
+image: "/img/like-a-boss.jpg"
 description: "What kind of leader do I want to be? What makes a good leader? Why do I even want that? Do I even want it?"
 tags: ["Leadership"]
 weight: 400
@@ -13,6 +14,8 @@ sitemap:
 What kind of leader do I want to be? What makes a good leader? Why do I even want that? *Do* I even want it?
 
 I ask myself lots of questions like this when I think about my work and where I want to go in the future. And the only sure answer is “It’s complicated.” But since I see everything as a design problem, the first step is always to define the problem, and that means defining what leadership means to me.
+
+{{< figure class="portfolio-figure" src="/img/like-a-boss.jpg" title="This is my favorite mug because it reminds me to do everything LIKE A BOSS." alt="Me with my favorite \"Like A Boss\" mug" >}}
 
 ## Two types of leaders
 I think that leadership can be broken down into two separate roles: **being an executive vs. being a manager**.
